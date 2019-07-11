@@ -1,2 +1,3 @@
 # Hello-World
 tutorial repository
+This is a bit about myself...
